@@ -14,7 +14,7 @@
 
 - **[Work]** Associate Renewals Manager @ Salesforce — enterprise CRM data models, SaaS workflows, and cloud operations
 - **[Building]** Full-stack projects using React, TypeScript, Node.js, and REST APIs — see pinned repos below
-- **[DSA]** 550+ problems solved · 1750+ LeetCode rating · 3 Star CodeChef
+- **[DSA]** 600+ problems solved · 1750+ LeetCode rating · 3 Star CodeChef
 - **[Education]** B.Tech Computer Science — Chandigarh University (2019–2023)
 - **[Certified]** Salesforce AI Associate · Platform Administrator · Agentforce Specialist · JavaScript Developer
 - **[Location]** Hyderabad, Telangana, India
